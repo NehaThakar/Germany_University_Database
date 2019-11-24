@@ -1,0 +1,88 @@
+,University_Id,University,State,Budget,Academic staff,Administrative staff,Students
+0,U0001,RWTH Aachen,North Rhine-Westphalia,900.0,5913,3351,45256
+1,U0002,University of Bamberg,Bavaria,83.8,1608,568,13119
+2,U0003,University of Bayreuth,Bavaria,150.0,1452,954,13497
+3,U0004,Berlin International University of Applied Sciences,Berlin,0.0,0,0,0
+4,U0005,Berlin University of the Arts,Berlin,85.6,473,329,3535
+5,U0006,Free University of Berlin,Berlin,510.2,2786,2357,31500
+6,U0007,Humboldt University of Berlin,Berlin,397.8,2403,1516,32553
+7,U0008,Technical University of Berlin,Berlin,492.1,3120,2258,34428
+8,U0009,University of Bielefeld,North Rhine-Westphalia,230.0,1387,1100,24255
+9,U0010,Ruhr University Bochum,North Rhine-Westphalia,539.1,3324,2378,42425
+10,U0011,University of Bonn,North Rhine-Westphalia,571.8,4537,1759,35619
+11,U0012,Brandenburg University of Technology,Brandenburg,121.7,652,680,8224
+12,U0013,Braunschweig University of Technology,Lower Saxony,335.0,241,1458,19981
+13,U0014,University of Bremen,Bremen,325.8,2330,1185,19173
+14,U0015,Jacobs University Bremen,Bremen,0.0,251,170,1466
+15,U0016,Chemnitz University of Technology,Saxony,178.1,1468,808,11406
+16,U0017,Clausthal University of Technology,Lower Saxony,120.6,85,1050,4093
+17,U0018,University of Cologne,North Rhine-Westphalia,725.2,7393,0,48962
+18,U0019,Technische Universit%C3%A4t Darmstadt,Hesse,454.3,2593,1909,25889
+19,U0020,Technical University of Dortmund,North Rhine-Westphalia,307.0,2535,1324,34235
+20,U0021,Dresden University of Technology,Saxony,577.8,5751,2470,32389
+21,U0022,University of Duisburg-Essen,North Rhine-Westphalia,483.0,4062,1581,43043
+22,U0023,University of D%C3%BCsseldorf,North Rhine-Westphalia,310.0,3534,1182,32069
+23,U0024,Catholic University of Eichst%C3%A4tt-Ingolstadt,Bavaria,0.0,0,0,0
+24,U0025,University of Erfurt,Thuringia,59.5,358,287,5715
+25,U0026,University of Erlangen-Nuremberg,Bavaria,543.1,4036,2320,38771
+26,U0027,University of Duisburg-Essen,North Rhine-Westphalia,483.0,4062,1581,43043
+27,U0028,University of Flensburg,Schleswig-Holstein,27.7,346,133,5333
+28,U0029,Goethe University Frankfurt,Hesse,644.6,3055,2038,46961
+29,U0030,Viadrina University,Brandenburg,0.0,579,0,6647
+30,U0031,Freiberg University of Mining and Technology,Saxony,0.0,0,0,4294
+31,U0032,Zeppelin University,Baden-Württemberg,0.0,28,224,1060
+32,U0033,University of Freiburg,Baden-Württemberg,339.8,2657,2033,24612
+33,U0034,University of Giessen,Hesse,223.0,3039,2394,28454
+34,U0035,University of G%C3%B6ttingen,Lower Saxony,1.233,4241,7752,31619
+35,U0036,University of Greifswald,Mecklenburg-Vorpommern,81.3,2949,3343,10179
+36,U0037,University of Hagen,North Rhine-Westphalia,0.0,1824,0,76689
+37,U0038,University of Halle-Wittenberg,Saxony-Anhalt,182.9,663,710,19319
+38,U0039,University of Hamburg,Hamburg,665.0,5382,7441,43636
+39,U0040,HafenCity University Hamburg,Hamburg,0.0,0,0,0
+40,U0041,Hamburg University of Technology,Hamburg,128.2,673,0,7832
+41,U0042,Helmut Schmidt University,Hamburg,0.0,0,0,2144
+42,U0043,Hertie School of Governance,Berlin,13.0,0,0,605
+43,U0044,University of Hannover,Lower Saxony,447.2,3046,1739,26035
+44,U0045,University of Heidelberg,Baden-Württemberg,461.0,0,7392,30873
+45,U0046,University of Hildesheim,Lower Saxony,0.0,560,0,7500
+46,U0047,University of Hohenheim,Baden-Württemberg,144.2,941,1100,9759
+47,U0048,Technical University of Ilmenau,Thuringia,124.2,0,0,6248
+48,U0049,University of Jena,Thuringia,372.0,3415,5151,18219
+49,U0050,Kaiserslautern University of Technology,Rhineland-Palatinate,208.7,2418,233,14869
+50,U0051,Karlsruhe Institute of Technology,Baden-Württemberg,901.7,5859,3456,25196
+51,U0052,University of Kassel,Hesse,228.72,2019,1246,25043
+52,U0053,University of Kiel,Schleswig-Holstein,167.1,1162,1129,26735
+53,U0054,University of Koblenz-Landau,Rhineland-Palatinate,41.5,0,0,16479
+54,U0055,University of Konstanz,Baden-Württemberg,188.65,1067,850,11268
+55,U0056,University of Leipzig,Saxony,408.9,3234,1962,29459
+56,U0057,University of L%C3%BCbeck,Schleswig-Holstein,113.3,2154,310,4945
+57,U0058,University of L%C3%BCneburg,Lower Saxony,103.2,710,450,9076
+58,U0059,University of Magdeburg,Saxony-Anhalt,199.1,1770,1009,14181
+59,U0060,University of Mainz,Rhineland-Palatinate,504.0,4353,7825,32630
+60,U0061,University of Mannheim,Baden-Württemberg,123.0,907,617,12001
+61,U0062,University of Marburg,Hesse,335.6,2657,1794,26726
+62,U0063,Technical University of Munich,Bavaria,937.6,6854,3249,41000
+63,U0064,Ludwig Maximilian University of Munich,Bavaria,682.0,6017,8066,51025
+64,U0065,Bundeswehr University Munich,Bavaria,0.0,586,0,3000
+65,U0066,Ukrainian Free University,Bavaria,0.0,65,0,0
+66,U0067,University of M%C3%BCnster,North Rhine-Westphalia,628.7,5726,2174,43790
+67,U0068,University of Erlangen-Nuremberg,Bavaria,543.1,4036,2320,38771
+68,U0069,University of Oldenburg,Lower Saxony,224.3,1459,1037,15220
+69,U0070,University of Osnabr%C3%BCck,Lower Saxony,141.1,981,734,14000
+70,U0071,University of Paderborn,North Rhine-Westphalia,204.0,1151,667,20308
+71,U0072,University of Passau,Bavaria,53.7,683,462,12631
+72,U0073,University of Potsdam,Brandenburg,198.3,1864,899,20428
+73,U0074,University of Regensburg,Bavaria,238.4,1612,2098,21088
+74,U0075,University of Rostock,Mecklenburg-Vorpommern,214.4,1341,963,13766
+75,U0076,Saarland University,Saarland,357.0,1571,1181,17317
+76,U0077,University of Siegen,North Rhine-Westphalia,134.0,1380,773,18618
+77,U0078,German University of Administrative Sciences Speyer,Rhineland-Palatinate,0.0,17,0,0
+78,U0079,University of Stuttgart,Baden-Württemberg,420.0,3152,1794,27686
+79,U0080,University of Trier,Rhineland-Palatinate,140.2,626,580,13751
+80,U0081,University of T%C3%BCbingen,Baden-Württemberg,532.6,3604,1375,28515
+81,U0082,University of Ulm,Baden-Württemberg,167.0,2469,1034,9891
+82,U0083,University of Halle-Wittenberg,Saxony-Anhalt,182.9,663,710,19319
+83,U0084,"Bauhaus University, Weimar",Thuringia,0.0,0,0,4072
+84,U0085,Witten,North Rhine-Westphalia,38.0,0,554,2532
+85,U0086,University of Wuppertal,North Rhine-Westphalia,189.4,992,581,20957
+86,U0087,University of W%C3%BCrzburg,Bavaria,324.8,2371,1745,28878
